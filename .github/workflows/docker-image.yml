@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: sonalidesai/docker-image-app:latest
+        tags: sonali0207/docker-image-app:latest
